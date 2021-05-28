@@ -1,0 +1,9 @@
+# Custom module library for general purposes.
+ajax_form:
+  js:
+    js/ajax-form.js: {}
+  css:
+    component:
+      css/ajax-form.css: {}
+  dependencies:
+    - core/drupalSettings

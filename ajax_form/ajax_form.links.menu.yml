@@ -1,0 +1,6 @@
+ajax_form.settings_form:
+  title: Ajax form
+  description: Configure Ajax form.
+  parent: system.admin_config_system
+  route_name: ajax_form.settings_form
+  weight: 10
